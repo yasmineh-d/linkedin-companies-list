@@ -1,3 +1,5 @@
+## Objet : Request for a Professional Exchange with Your Team
+
 Dear Sir or Madam,
 
 We are a group of second-year students at the SoliCode Digital Training Center in Tangier, currently specializing in web development.
